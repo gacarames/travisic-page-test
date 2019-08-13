@@ -9,4 +9,4 @@ deploy:
   provider: pages
   local_dir: build
   skip_cleanup: true
-  github_token: 2311dbd80f4093234828fd22e6d7880837baa49f  # Set in the settings page of your repository, as a secure variable
+  github_token: travis-deploy-test  # Set in the settings page of your repository, as a secure variable
