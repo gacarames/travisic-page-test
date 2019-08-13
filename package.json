@@ -1,0 +1,38 @@
+{
+  "name": "hackernews-react-apollo",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://gacarames.github.io/travisic-page-test/",
+  "dependencies": {
+    "apollo-boost": "^0.4.3",
+    "apollo-link-context": "^1.0.18",
+    "graphql": "^14.4.2",
+    "react": "^16.8.6",
+    "react-apollo": "^2.5.8",
+    "react-dom": "^16.8.6",
+    "react-router": "^5.0.1",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "clean": "rm -rf build",
+    "build": "react-scripts build",
+    "deploy": "npm run clean && npm run build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
