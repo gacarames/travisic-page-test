@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/travisic-page-test/static/css/main.bd4835e8.chunk.css",
+    "main.js": "/travisic-page-test/static/js/main.a6f3462a.chunk.js",
+    "main.js.map": "/travisic-page-test/static/js/main.a6f3462a.chunk.js.map",
+    "runtime~main.js": "/travisic-page-test/static/js/runtime~main.8d7fa1c9.js",
+    "runtime~main.js.map": "/travisic-page-test/static/js/runtime~main.8d7fa1c9.js.map",
+    "static/js/2.841fb988.chunk.js": "/travisic-page-test/static/js/2.841fb988.chunk.js",
+    "static/js/2.841fb988.chunk.js.map": "/travisic-page-test/static/js/2.841fb988.chunk.js.map",
+    "index.html": "/travisic-page-test/index.html",
+    "precache-manifest.00cd9f966c2ce7c545e4a0fe0edbc916.js": "/travisic-page-test/precache-manifest.00cd9f966c2ce7c545e4a0fe0edbc916.js",
+    "service-worker.js": "/travisic-page-test/service-worker.js",
+    "static/css/main.bd4835e8.chunk.css.map": "/travisic-page-test/static/css/main.bd4835e8.chunk.css.map"
+  }
+}
